@@ -1,0 +1,61 @@
+    body {
+    background-image: url('whitebrick.jpg');
+    background-color: white;
+    padding-left: 550px;
+    padding-right: 550px;
+    text-align: left;
+    font-family: roboto, Arial;
+    }
+
+    .text {
+    background-color: white;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    border: 1px;
+    border-color: black;
+    border-style: solid;
+    padding: 15px;
+    }
+
+    h1 {
+    font-size: 70px;
+    text-align: center;
+    margin-bottom: 10px;
+    text-shadow: 2px 2px 3px gray;
+    }
+    h2 {
+    font-size: 24px;
+    margin-top: 0px;
+    text-align: center;
+    margin-bottom: 0px;
+    }
+    .firstname {
+    color: grey;
+    }
+    .green {
+    color: green;
+    font-weight: bold;
+    font-size: 24px;
+    text-align: center;
+    margin-top: 10px;
+    }
+    .dates {
+    color: gray;
+    font-weight: bold;
+    font-size: 18px;
+    margin-top: 5px;
+    margin-bottom: 0px;
+    }
+    .employment {
+    color: gray;
+    font-weight: bold;
+    font-size: 24px;
+    margin-top: 12px;
+    margin-bottom: 0px;
+    }
+    li {
+    font-weight: bold;
+    font-size: 18px;
+    margin-top: 12px;
+    margin-bottom: 0px;
+    }
