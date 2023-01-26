@@ -29,24 +29,24 @@
     text-align: center;
     margin-bottom: 0px;
     }
-    firstname {
+    .firstname {
     color: grey;
     }
-    green {
+    .green {
     color: green;
     font-weight: bold;
     font-size: 24px;
     text-align: center;
     margin-top: 10px;
     }
-    dates {
+    .dates {
     color: gray;
     font-weight: bold;
     font-size: 18px;
     margin-top: 5px;
     margin-bottom: 0px;
     }
-    employment {
+    .employment {
     color: gray;
     font-weight: bold;
     font-size: 24px;
